@@ -2,7 +2,7 @@
   "site": {
     "title": "TouchFish 支持列表",
     "subtitle": "TouchFish 项目旗下的所有软件",
-    "author": "TouchFish Project",
+    "author": "ILoveScratch2 for TouchFish",
     "maintainer": "ILoveScratch2(YWD2023), XSFX, Piaoztsdy, 035966_L3，John Chiao"
   },
   "categories": [
@@ -45,7 +45,7 @@
       "id": "touchfish-ur-2",
       "name": "TouchFish UI Remake 2",
       "category": "chat",
-      "icon": { "type": "url", "value": "logo.png" },
+      "icon": { "type": "url", "value": "logos/touchfish-ur.png" },
       "description": "TouchFish UI Remake 2 是 TouchFish 的发行版、专注于桌面端体验。",
       "fullDescription": "TouchFish UI Remake 2 是 TouchFish 的客户端发行版，为桌面平台提供专门优化的用户界面和交互体验，使用 Fluent 设计，支持 Windows、macOS、Linux，提供高级的 TouchFish 聊天体验。",
       "isOpenSource": true,
@@ -73,7 +73,7 @@
       "id": "touchfish-oj",
       "name": "TouchFish OJ",
       "category": "system",
-      "icon": { "type": "url", "value": "logo.png" },
+      "icon": { "type": "url", "value": "logos/touchfish-oj.png" },
       "description": "原 Piao OJ，TouchFish 生态的 OJ 系统，基于 Hydro 实现。",
       "fullDescription": "TouchFish OJ 是 TouchFish 生态的 OJ 系统，基于 Hydro 实现，提供高性能的在线评测服务，用于编程竞赛和在线评测。",
       "isOpenSource": false,
