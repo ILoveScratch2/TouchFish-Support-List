@@ -10,7 +10,7 @@
     { "id": "chat",   "name": "聊天",   "icon": "chat" },
     { "id": "cloud",  "name": "云服务", "icon": "cloud" },
     { "id": "tools",  "name": "工具",   "icon": "build" },
-    { "id": "system", "name": "OI",   "icon": "settings" }
+    { "id": "oi", "name": "OI",   "icon": "settings" }
   ],
   "apps": [
     {
@@ -69,10 +69,23 @@
       "website": "https://icc.gt.tc/",
       "github": ""
     },
+      {
+      "id": "touchfish-fm",
+      "name": "TouchFish FileMove",
+      "category": "tools",
+      "icon": { "type": "url", "value": "https://raw.githubusercontent.com/ILoveScratch2/TouchFish.FileMove/refs/heads/main/TouchFish.FileMove.ico" },
+      "description": "TouchFish FileMove 是适用于 Windows 的高效安全的文件移动工具。",
+      "fullDescription": "TouchFish FileMove 用于方便移动大文件和目录并自动引用，使得原路径可正常工作，使用 Windows 上的 C++ 编写。",
+      "isOpenSource": true,
+      "license": "GPL-3.0",
+      "author": "ILoveScratch2(YWD2023)",
+      "maintainer": "ILoveScratch2(YWD2023)",
+      "github": "https://github.com/ILoveScratch2/TouchFish.FileMove"
+    },
     {
       "id": "touchfish-oj",
       "name": "TouchFish OJ",
-      "category": "system",
+      "category": "oi",
       "icon": { "type": "url", "value": "logos/touchfish-oj.png" },
       "description": "原 Piao OJ，TouchFish 生态的 OJ 系统，基于 Hydro 实现。",
       "fullDescription": "TouchFish OJ 是 TouchFish 生态的 OJ 系统，基于 Hydro 实现，提供高性能的在线评测服务，用于编程竞赛和在线评测。",
@@ -80,6 +93,18 @@
       "author": "Piaoztsdy",
       "maintainer": "Piaoztsdy",
       "website": "https://oj.piaoztsdy.cn/"
+    },
+    {
+      "id": "scg3",
+      "name": "Sleeping Cup Generation 3",
+      "category": "oi",
+      "icon": { "type": "url", "value": "logos/touchfish-oj.png" },
+      "description": "Sleeping Cup 新一代。",
+      "fullDescription": "Sleeping Cup Generation 3(SCG3) 是 Sleeping Cup 的最新在线版本，包含所有数据。",
+      "isOpenSource": false,
+      "author": "035966_L3",
+      "maintainer": "035966_L3",
+      "website": "http://touchfish.xin:4881/"
     }
   ]
 }
