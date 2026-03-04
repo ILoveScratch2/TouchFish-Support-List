@@ -101,7 +101,8 @@
       "icon": { "type": "url", "value": "http://touchfish.xin:4881/file/2/scup1.0.png" },
       "description": "Sleeping Cup 新一代。",
       "fullDescription": "Sleeping Cup Generation 3(SCG3) 是 Sleeping Cup 的最新在线版本，包含所有数据。",
-      "isOpenSource": false,
+      "isOpenSource": true,
+      "license": "GPL-3.0",
       "author": "035966_L3",
       "maintainer": "035966_L3",
       "website": "http://touchfish.xin:4881/"
