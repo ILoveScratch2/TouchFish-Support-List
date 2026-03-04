@@ -98,7 +98,7 @@
       "id": "scg3",
       "name": "Sleeping Cup Generation 3",
       "category": "oi",
-      "icon": { "type": "url", "value": "logos/touchfish-oj.png" },
+      "icon": { "type": "url", "value": "logo.png" },
       "description": "Sleeping Cup 新一代。",
       "fullDescription": "Sleeping Cup Generation 3(SCG3) 是 Sleeping Cup 的最新在线版本，包含所有数据。",
       "isOpenSource": false,
