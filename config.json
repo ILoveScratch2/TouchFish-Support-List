@@ -46,7 +46,7 @@
       "name": "TouchFish UI Remake 2",
       "category": "chat",
       "icon": { "type": "url", "value": "logos/touchfish-ur.png" },
-      "description": "TouchFish UI Remake 2 是 TouchFish 的发行版、专注于桌面端体验。"
+      "description": "TouchFish UI Remake 2 是 TouchFish 的发行版、专注于桌面端体验。",
       "fullDescription": "TouchFish UI Remake 2（a.k.a. TFUR2） 是 TouchFish 的客户端发行版，为桌面平台提供专门优化的用户界面和交互体验，使用早期 Fluent 设计和 Modern UI 的混合设计，支持 Windows、macOS、Linux，提供高级的 TouchFish 聊天体验。",
       "isOpenSource": true,
       "license": "AGPL-3.0",
@@ -68,7 +68,21 @@
       "website": "https://icc.gt.tc/",
       "github": ""
     },
-      {
+    {
+      "id": "touchfish-drive",
+      "name": "TouchFish Drive",
+      "category": "cloud",
+      "icon": { "type": "url", "value": "https://touchfish.ilovescratch.us.ci/logo.png" },
+      "description": "TouchFish 网盘。",
+      "fullDescription": "TouchFish Drive 提供网盘服务，稳定、迅捷、高效。",
+      "isOpenSource": false,
+      "license": "",
+      "author": "ILoveScratch2(YWD2023)",
+      "maintainer": "ILoveScratch2(YWD2023)",
+      "website": "https://drive.ilovescratch.us.ci/",
+      "github": ""
+    },
+    {
       "id": "touchfish-fm",
       "name": "TouchFish FileMove",
       "category": "tools",
@@ -99,7 +113,7 @@
       "category": "oi",
       "icon": { "type": "url", "value": "logos/sleepingcup.png" },
       "description": "Sleeping Cup 新一代。",
-      "fullDescription": "Sleeping Cup Generation 3(SCG3) 是 Sleeping Cup 的最新在线版本，包含所有数据。",
+      "fullDescription": "Sleeping Cup Generation 3（a.k.a. SCG3） 是 Sleeping Cup 的最新在线版本，包含所有数据。",
       "isOpenSource": true,
       "license": "GPL-3.0",
       "author": "035966_L3",
